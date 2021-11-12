@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 [enlace](https://i.pinimg.com/originals/cc/87/a7/cc87a7d51170d56ce517a526ebd1e538.jpg)
 
+![Nigth Wing](/GithubPagesExample/docs/assets/nw.jpg)
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
