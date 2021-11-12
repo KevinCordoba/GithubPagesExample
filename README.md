@@ -26,6 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![NW _Logo](/GithubPagesExample/assets/images/logo-Nightwing.png)
 ```
 ![Logo](/GithubPagesExample/assets/images/nw.jpg)
+[enlace](https://i.pinimg.com/originals/cc/87/a7/cc87a7d51170d56ce517a526ebd1e538.jpg)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
