@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000marcas.net%2Fnightwing-logo%2F&psig=AOvVaw0m6XcHk8x1X1YIDoElLsEh&ust=1636781957012000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjG_IuOkvQCFQAAAAAdAAAAABAD)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
