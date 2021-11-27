@@ -33,9 +33,6 @@ Syntax highlighted code block
 
 ![Logo_Tec](/GithubPagesExample/docs/assets/logo_tec.jpg)
 
-![NW _Logo](/GithubPagesExample/assets/images/logo-Nightwing.png)
-
-![Logo_Tec](/GithubPagesExample/docs/assets/logo_tec.jpg)
 
 <div id='map' style='width: 400px; height: 300px;'></div>
 <script>
@@ -47,11 +44,6 @@ Syntax highlighted code block
 </script>
 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KevinCordoba/GithubPagesExample/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
