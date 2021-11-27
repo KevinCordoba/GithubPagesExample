@@ -42,7 +42,6 @@ Syntax highlighted code block
     style: 'pk.eyJ1Ijoia2V2aW5nY2MiLCJhIjoiY2t1OTN1dWlnMDM3aDJvcWp0czFqOTd3diJ9.oi2n4oJAszF8rcTVoLw3qA'
   });
 </script>
-
 </body>
 
 
