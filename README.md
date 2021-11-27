@@ -42,7 +42,7 @@ Syntax highlighted code block
   mapboxgl.accessToken = 'pk.eyJ1Ijoia2V2aW5nY2MiLCJhIjoiY2t1OTN1dWlnMDM3aDJvcWp0czFqOTd3diJ9.oi2n4oJAszF8rcTVoLw3qA';
   var map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/mapbox/streets-v11'
+    style: 'pk.eyJ1Ijoia2V2aW5nY2MiLCJhIjoiY2t1OTN1dWlnMDM3aDJvcWp0czFqOTd3diJ9.oi2n4oJAszF8rcTVoLw3qA'
   });
 </script>
 
