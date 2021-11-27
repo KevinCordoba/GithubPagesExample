@@ -37,6 +37,16 @@ Syntax highlighted code block
 
 ![Logo_Tec](/GithubPagesExample/docs/assets/logo_tec.jpg)
 
+<div id='map' style='width: 400px; height: 300px;'></div>
+<script>
+  mapboxgl.accessToken = 'pk.eyJ1Ijoia2V2aW5nY2MiLCJhIjoiY2t1OTN1dWlnMDM3aDJvcWp0czFqOTd3diJ9.oi2n4oJAszF8rcTVoLw3qA';
+  var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/streets-v11'
+  });
+</script>
+
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
