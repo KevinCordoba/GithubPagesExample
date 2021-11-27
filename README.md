@@ -33,7 +33,7 @@ Syntax highlighted code block
 
 ![Logo_Tec](/GithubPagesExample/docs/assets/logo_tec.jpg)
 
-
+<body>
 <div id='map' style='width: 400px; height: 300px;'></div>
 <script>
   mapboxgl.accessToken = 'pk.eyJ1Ijoia2V2aW5nY2MiLCJhIjoiY2t1OTN1dWlnMDM3aDJvcWp0czFqOTd3diJ9.oi2n4oJAszF8rcTVoLw3qA';
@@ -43,6 +43,7 @@ Syntax highlighted code block
   });
 </script>
 
+</body>
 
 
 ### Support or Contact
