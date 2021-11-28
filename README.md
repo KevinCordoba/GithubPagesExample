@@ -37,7 +37,7 @@ style: 'mapbox://styles/mapbox/streets-v11'
   mapboxgl.accessToken = 'pk.eyJ1Ijoia2V2aW5nY2MiLCJhIjoiY2t1OTN1dWlnMDM3aDJvcWp0czFqOTd3diJ9.oi2n4oJAszF8rcTVoLw3qA';
   var map = new mapboxgl.Map({
     container: 'map',
-    style: 'pk.eyJ1Ijoia2V2aW5nY2MiLCJhIjoiY2t1OTN1dWlnMDM3aDJvcWp0czFqOTd3diJ9.oi2n4oJAszF8rcTVoLw3qA'
+    style: 'mapbox://styles/kevingcc/ckwj9l6lt0h1614o8uyt8imj1'
   });
 </script>
 </body>
