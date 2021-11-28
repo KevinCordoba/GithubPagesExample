@@ -1,4 +1,8 @@
 ## Welcome to GitHub Pages
+<head>
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' />
+</head>
 
 You can use the [editor on GitHub](https://github.com/KevinCordoba/GithubPagesExample/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
